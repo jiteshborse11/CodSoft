@@ -1,2 +1,2 @@
 # CodSoft
- Internship"s Tasks for CodSoft by JITESH BORSE
+ Internship's Tasks for CodSoft by JITESH BORSE
